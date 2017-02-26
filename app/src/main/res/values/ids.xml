@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="volunteerButton" type="id" />
+    <item name="organizationButton" type="id" />
+    <item name="findEventButton" type="id" />
+</resources>

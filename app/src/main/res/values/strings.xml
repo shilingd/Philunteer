@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Philunteer</string>
+    <string name="websiteIntro">Volunteer in Philly Today</string>
+    <string name="volunteerIntro">Volunteer</string>
+    <string name="organizationIntro">Organization</string>
+
+</resources>
